@@ -1,6 +1,7 @@
 name: Update
 
 on:
+  workflow_dispatch:
   label:
     types:
       - created # for test
@@ -16,7 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+        ref: main
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -31,15 +35,14 @@ jobs:
         python main.py
 
     - name: Commit and push changes
-      uses: github-actions-x/commit@v2.9
+      uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        github-token: ${{ secrets.GITHUB_TOKEN }}
-        push-branch: 'master'
-        commit-message: '✏️ Update papers automatically.'
-        force-add: 'true'
+        token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+        branch: 'main'
+        commit_message: '✏️ Update papers automatically.'
         files: README.md .github/ISSUE_TEMPLATE.md
-        name: longinhit
-        email: longinhit@gmail.com
+        commit_user_name: longinhit
+        commit_user_email: longinhit@gmail.com
 
     - name: Create an issue to notify
       uses: JasonEtco/create-an-issue@v2
