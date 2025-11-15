@@ -2,11 +2,8 @@ name: Update
 
 on:
   workflow_dispatch:
-  label:
-    types:
-      - created # for test
   schedule:
-      - cron: '30 16 * * 0-4' # 00:30 Beijing time every Monday to Friday
+    - cron: '30 16 * * 0-4'  # 00:30 Beijing time every Monday to Friday
 
 permissions:
   contents: write
@@ -37,7 +34,7 @@ jobs:
     - name: Commit and push changes
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
-        token: ${{ secrets.PAT || secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
         branch: 'main'
         commit_message: '✏️ Update papers automatically.'
         files: README.md .github/ISSUE_TEMPLATE.md
