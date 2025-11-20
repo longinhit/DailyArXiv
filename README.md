@@ -7,7 +7,7 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-11-20
+Last update: 2025-11-21
 
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Abstract** | **Comment** |
