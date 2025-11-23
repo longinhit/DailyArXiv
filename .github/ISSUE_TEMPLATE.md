@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Target Refocusing via Attention Redistribution for Open-Vocabulary Semantic Segmentation: An Explainability Perspective](https://arxiv.org/abs/2511.16170v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[DGL-RSIS: Decoupling Global Spatial Context and Local Class Semantics for Training-Free Remote Sensing Image Segmentation](https://arxiv.org/abs/2509.00598v2)** | 2025-11-11 |  |
 | **[NERVE: Neighbourhood & Entropy-guided Random-walk for training free open-Vocabulary sEgmentation](https://arxiv.org/abs/2511.08248v1)** | 2025-11-11 |  |
 | **[RSVG-ZeroOV: Exploring a Training-Free Framework for Zero-Shot Open-Vocabulary Visual Grounding in Remote Sensing Images](https://arxiv.org/abs/2509.18711v2)** | 2025-11-11 | <details><summary>This ...</summary><p>This work is accepted by AAAI 2026</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Guideline-Consistent Segmentation via Multi-Agent Refinement](https://arxiv.org/abs/2509.04687v1)** | 2025-09-04 |  |
 | **[Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation](https://arxiv.org/abs/2508.20265v1)** | 2025-08-27 | <details><summary>ICCV ...</summary><p>ICCV 2025, code:https://github.com/chi-chi-zx/FSA</p></details> |
 | **[Annotation-Free Open-Vocabulary Segmentation for Remote-Sensing Images](https://arxiv.org/abs/2508.18067v1)** | 2025-08-25 | <details><summary>All c...</summary><p>All codes and models will be released at https://github.com/earth-insights/SegEarth-OV-2</p></details> |
-| **[OVSegDT: Segmenting Transformer for Open-Vocabulary Object Goal Navigation](https://arxiv.org/abs/2508.11479v1)** | 2025-08-15 |  |
 
 ## CLIP few shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
