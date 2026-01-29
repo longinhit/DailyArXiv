@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 29, 2026
+title: Latest 15 Papers - January 30, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -20,6 +20,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 | **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
 | **[Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2512.15319v1)** | 2025-12-17 |  |
 | **[Understanding Cross Task Generalization in Handwriting-Based Alzheimer's Screening via Vision Language Adaptation](https://arxiv.org/abs/2511.05841v1)** | 2025-11-08 |  |
@@ -34,5 +35,4 @@ labels: documentation
 | **[MadCLIP: Few-shot Medical Anomaly Detection with CLIP](https://arxiv.org/abs/2506.23810v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025 (this version is not peer-reviewed; it is the submitted version). MICCAI proceedings DOI will appear here</p></details> |
 | **[IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain](https://arxiv.org/abs/2506.10730v3)** | 2025-06-20 |  |
 | **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
-| **[Search is All You Need for Few-shot Anomaly Detection](https://arxiv.org/abs/2504.11895v2)** | 2025-05-08 |  |
 
