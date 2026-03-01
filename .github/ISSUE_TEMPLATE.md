@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 27, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -21,6 +21,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 | **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
 | **[Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2512.15319v1)** | 2025-12-17 |  |
@@ -35,5 +36,4 @@ labels: documentation
 | **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](https://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
 | **[MadCLIP: Few-shot Medical Anomaly Detection with CLIP](https://arxiv.org/abs/2506.23810v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025 (this version is not peer-reviewed; it is the submitted version). MICCAI proceedings DOI will appear here</p></details> |
 | **[IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain](https://arxiv.org/abs/2506.10730v3)** | 2025-06-20 |  |
-| **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v2)** | 2025-06-01 | Accepted by KDD2025 |
 
