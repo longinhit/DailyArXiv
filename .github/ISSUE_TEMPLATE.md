@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition](https://arxiv.org/abs/2602.23869v1)** | 2026-02-27 | <details><summary>Publi...</summary><p>Published in the proceedings of the British Machine Vision Conference Workshops 2025</p></details> |
 | **[Bidirectional Cross-Perception for Open-Vocabulary Semantic Segmentation in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v1)** | 2026-01-29 |  |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v1)** | 2025-12-09 |  |
 | **[Structure-Aware Feature Rectification with Region Adjacency Graphs for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2512.07360v1)** | 2025-12-08 | Accepted to WACV2026 |
