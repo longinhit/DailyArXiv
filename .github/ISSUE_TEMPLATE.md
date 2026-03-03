@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2026
+title: Latest 15 Papers - March 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -22,6 +22,8 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dual Distillation for Few-Shot Anomaly Detection](https://arxiv.org/abs/2603.01713v1)** | 2026-03-02 | ICLR 2026 |
+| **[FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization](https://arxiv.org/abs/2501.10067v2)** | 2026-02-28 |  |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 | **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
@@ -35,6 +37,4 @@ labels: documentation
 | **[Prescriptive Agents based on RAG for Automated Maintenance (PARAM)](https://arxiv.org/abs/2508.04714v2)** | 2025-08-20 |  |
 | **[Anomalous Samples for Few-Shot Anomaly Detection](https://arxiv.org/abs/2507.23712v1)** | 2025-07-31 |  |
 | **[EMIT: Enhancing MLLMs for Industrial Anomaly Detection via Difficulty-Aware GRPO](https://arxiv.org/abs/2507.21619v1)** | 2025-07-29 |  |
-| **[MadCLIP: Few-shot Medical Anomaly Detection with CLIP](https://arxiv.org/abs/2506.23810v1)** | 2025-06-30 | <details><summary>Accep...</summary><p>Accepted to MICCAI 2025 (this version is not peer-reviewed; it is the submitted version). MICCAI proceedings DOI will appear here</p></details> |
-| **[IQE-CLIP: Instance-aware Query Embedding for Zero-/Few-shot Anomaly Detection in Medical Domain](https://arxiv.org/abs/2506.10730v3)** | 2025-06-20 |  |
 
