@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2026
+title: Latest 15 Papers - April 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -24,10 +24,11 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
+| **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection](https://arxiv.org/abs/2511.22436v2)** | 2026-03-14 |  |
 | **[Dual Distillation for Few-Shot Anomaly Detection](https://arxiv.org/abs/2603.01713v1)** | 2026-03-02 | ICLR 2026 |
 | **[FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization](https://arxiv.org/abs/2501.10067v2)** | 2026-02-28 |  |
-| **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v1)** | 2026-02-26 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 | **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
 | **[Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2512.15319v1)** | 2025-12-17 |  |
@@ -38,5 +39,4 @@ labels: documentation
 | **[Meta-Learning Based Few-Shot Graph-Level Anomaly Detection](https://arxiv.org/abs/2510.07847v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by ARRML2025</p></details> |
 | **[Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors](https://arxiv.org/abs/2510.01934v1)** | 2025-10-02 | <details><summary>23 pa...</summary><p>23 pages, 13 figures. Code is available at \url{https://github.com/ymxlzgy/FoundAD}</p></details> |
 | **[Prescriptive Agents based on RAG for Automated Maintenance (PARAM)](https://arxiv.org/abs/2508.04714v2)** | 2025-08-20 |  |
-| **[Anomalous Samples for Few-Shot Anomaly Detection](https://arxiv.org/abs/2507.23712v1)** | 2025-07-31 |  |
 
