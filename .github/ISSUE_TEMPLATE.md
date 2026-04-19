@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 17, 2026
+title: Latest 15 Papers - April 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection](https://arxiv.org/abs/2604.14507v1)** | 2026-04-16 | 9 pages, 5 figures |
 | **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v2)** | 2026-04-05 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026</p></details> |
 | **[ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection](https://arxiv.org/abs/2511.22436v2)** | 2026-03-14 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Towards Adversarial Robustness and Uncertainty Quantification in DINOv2-based Few-Shot Anomaly Detection](https://arxiv.org/abs/2510.13643v1)** | 2025-10-15 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
 | **[Meta-Learning Based Few-Shot Graph-Level Anomaly Detection](https://arxiv.org/abs/2510.07847v1)** | 2025-10-09 | <details><summary>Accep...</summary><p>Accepted by ARRML2025</p></details> |
 | **[Foundation Visual Encoders Are Secretly Few-Shot Anomaly Detectors](https://arxiv.org/abs/2510.01934v1)** | 2025-10-02 | <details><summary>23 pa...</summary><p>23 pages, 13 figures. Code is available at \url{https://github.com/ymxlzgy/FoundAD}</p></details> |
-| **[Prescriptive Agents based on RAG for Automated Maintenance (PARAM)](https://arxiv.org/abs/2508.04714v2)** | 2025-08-20 |  |
 
