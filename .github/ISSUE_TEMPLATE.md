@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 25, 2026
+title: Latest 15 Papers - May 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v1)** | 2026-05-22 | 31 pages |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Revised version with corrected AU-PRO evaluation and recomputed metrics</p></details> |
 | **[Hypergraph-Enhanced Training-Free and Language-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.10628v1)** | 2026-05-11 |  |
 | **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](https://arxiv.org/abs/2507.13757v3)** | 2026-05-05 |  |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Understanding Cross Task Generalization in Handwriting-Based Alzheimer's Screening via Vision Language Adaptation](https://arxiv.org/abs/2511.05841v1)** | 2025-11-08 |  |
 | **[Towards Fine-Grained Vision-Language Alignment for Few-Shot Anomaly Detection](https://arxiv.org/abs/2510.26464v1)** | 2025-10-30 | 12 pages, 7 figures |
 | **[IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection](https://arxiv.org/abs/2510.16036v1)** | 2025-10-16 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Instrumentation and Measurement (TIM)</p></details> |
-| **[Towards Adversarial Robustness and Uncertainty Quantification in DINOv2-based Few-Shot Anomaly Detection](https://arxiv.org/abs/2510.13643v1)** | 2025-10-15 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables</p></details> |
 
