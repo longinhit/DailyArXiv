@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2026
+title: Latest 15 Papers - June 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,8 +26,8 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v2)** | 2026-05-30 | 31 pages, 7 figures |
 | **[AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.30140v1)** | 2026-05-28 |  |
-| **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v1)** | 2026-05-22 | 31 pages |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Revised version with corrected AU-PRO evaluation and recomputed metrics</p></details> |
 | **[Hypergraph-Enhanced Training-Free and Language-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.10628v1)** | 2026-05-11 |  |
 | **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](https://arxiv.org/abs/2507.13757v3)** | 2026-05-05 |  |
