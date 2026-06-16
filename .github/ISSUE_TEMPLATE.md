@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2026
+title: Latest 15 Papers - June 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation](https://arxiv.org/abs/2606.16996v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
 | **[VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference](https://arxiv.org/abs/2605.12325v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML2026. Code is available at https://github.com/MiSsU-HH/VIP</p></details> |
 | **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2502.06818v3)** | 2026-05-09 | TMM 2026 |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[ReME: A Data-Centric Framework for Training-Free Open-Vocabulary Segmentation](https://arxiv.org/abs/2506.21233v2)** | 2025-06-27 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[A Survey on Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2505.22209v1)** | 2025-05-28 |  |
 | **[Pay Attention to Your Neighbours: Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2404.08181v2)** | 2024-09-16 | <details><summary>Accep...</summary><p>Accepted to WACV 2025</p></details> |
-| **[Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation](https://arxiv.org/abs/2407.08268v1)** | 2024-07-11 | ECCV24 accepted |
 
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
