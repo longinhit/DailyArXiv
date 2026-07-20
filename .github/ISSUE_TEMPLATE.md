@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,9 +7,9 @@ labels: documentation
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2502.06818v4)** | 2026-07-17 | TMM 2026 |
 | **[ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation](https://arxiv.org/abs/2606.16996v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
 | **[VIP: Visual-guided Prompt Evolution for Efficient Dense Vision-Language Inference](https://arxiv.org/abs/2605.12325v2)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted by ICML2026. Code is available at https://github.com/MiSsU-HH/VIP</p></details> |
-| **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2502.06818v3)** | 2026-05-09 | TMM 2026 |
 | **[SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images](https://arxiv.org/abs/2512.08730v2)** | 2026-04-22 |  |
 | **[Spatial-Regularization-Aware Dual-Branch Collaborative Inference for Training-Free OVSS in Remote Sensing Imagery](https://arxiv.org/abs/2601.21159v2)** | 2026-04-18 |  |
 | **[OV-Stitcher: A Global Context-Aware Framework for Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.08110v2)** | 2026-04-10 |  |
