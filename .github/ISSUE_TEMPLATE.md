@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2026
+title: Latest 15 Papers - August 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## Training-Free Open-Vocabulary Semantic Segmentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2608.03991v1)** | 2026-08-04 | 17 pages, 5 figures |
+| **[Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2608.03991v2)** | 2026-08-05 | 17 pages, 5 figures |
 | **[Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing](https://arxiv.org/abs/2608.03023v1)** | 2026-08-04 |  |
 | **[Rethinking the Global Knowledge of CLIP in Training-Free Open-Vocabulary Semantic Segmentation](https://arxiv.org/abs/2502.06818v4)** | 2026-07-17 | TMM 2026 |
 | **[ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation](https://arxiv.org/abs/2606.16996v1)** | 2026-06-15 | <details><summary>Prepr...</summary><p>Preprint. Code is available at https://github.com/VILA-Lab/ActiveSAM</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 (oral)</p></details> |
 | **[DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2607.23924v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/inventec-ai-center/DuoAD</p></details> |
 | **[CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection](https://arxiv.org/abs/2606.20300v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026! Project page: https://cmds-ad.github.io/</p></details> |
 | **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v2)** | 2026-05-30 | 31 pages, 7 figures |
@@ -40,5 +41,4 @@ labels: documentation
 | **[FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization](https://arxiv.org/abs/2501.10067v2)** | 2026-02-28 |  |
 | **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 | **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
-| **[Prototypical Learning Guided Context-Aware Segmentation Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2512.15319v1)** | 2025-12-17 |  |
 
