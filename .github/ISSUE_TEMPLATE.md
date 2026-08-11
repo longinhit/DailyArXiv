@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models](https://arxiv.org/abs/2510.13643v2)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
 | **[PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 (oral)</p></details> |
 | **[DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2607.23924v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/inventec-ai-center/DuoAD</p></details> |
 | **[CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection](https://arxiv.org/abs/2606.20300v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026! Project page: https://cmds-ad.github.io/</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[Dual Distillation for Few-Shot Anomaly Detection](https://arxiv.org/abs/2603.01713v1)** | 2026-03-02 | ICLR 2026 |
 | **[FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization](https://arxiv.org/abs/2501.10067v2)** | 2026-02-28 |  |
 | **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
-| **[VTFusion: A Vision-Text Multimodal Fusion Network for Few-Shot Anomaly Detection](https://arxiv.org/abs/2601.16381v1)** | 2026-01-23 |  |
 
