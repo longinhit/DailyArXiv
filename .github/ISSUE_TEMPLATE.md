@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 13, 2026
+title: Latest 15 Papers - August 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching](https://arxiv.org/abs/2605.10628v2)** | 2026-08-12 |  |
 | **[Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models](https://arxiv.org/abs/2510.13643v2)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
 | **[PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 (oral)</p></details> |
 | **[DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2607.23924v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/inventec-ai-center/DuoAD</p></details> |
@@ -33,7 +34,6 @@ labels: documentation
 | **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v2)** | 2026-05-30 | 31 pages, 7 figures |
 | **[AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.30140v1)** | 2026-05-28 |  |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Revised version with corrected AU-PRO evaluation and recomputed metrics</p></details> |
-| **[Hypergraph-Enhanced Training-Free and Language-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.10628v1)** | 2026-05-11 |  |
 | **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](https://arxiv.org/abs/2507.13757v3)** | 2026-05-05 |  |
 | **[H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection](https://arxiv.org/abs/2604.14507v1)** | 2026-04-16 | 9 pages, 5 figures |
 | **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
