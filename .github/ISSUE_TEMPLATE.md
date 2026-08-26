@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 26, 2026
+title: Latest 15 Papers - August 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DriftAD: Visually-Guided Text Drift for Few-Shot Industrial Anomaly Detection](https://arxiv.org/abs/2608.23723v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026 (ACM MM 2026)</p></details> |
 | **[Hyper-FSAD: Training-Free and Language-Free Few-Shot Anomaly Detection via Sparse Hyper Matching](https://arxiv.org/abs/2605.10628v2)** | 2026-08-12 |  |
 | **[Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models](https://arxiv.org/abs/2510.13643v2)** | 2026-08-08 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
 | **[PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 (oral)</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[ABounD: Adversarial Boundary-Driven Few-Shot Learning for Multi-Class Anomaly Detection](https://arxiv.org/abs/2511.22436v2)** | 2026-03-14 |  |
 | **[Dual Distillation for Few-Shot Anomaly Detection](https://arxiv.org/abs/2603.01713v1)** | 2026-03-02 | ICLR 2026 |
 | **[FiLo++: Zero-/Few-Shot Anomaly Detection by Fused Fine-Grained Descriptions and Deformable Localization](https://arxiv.org/abs/2501.10067v2)** | 2026-02-28 |  |
-| **[BayPrAnoMeta: Bayesian Proto-MAML for Few-Shot Industrial Image Anomaly Detection](https://arxiv.org/abs/2601.19992v1)** | 2026-01-27 |  |
 
