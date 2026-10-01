@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2026
+title: Latest 15 Papers - October 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v3)** | 2026-09-30 | <details><summary>39 pa...</summary><p>39 pages, Accepted to NeurIPS 2026</p></details> |
 | **[VD-DeepStack: Bridging Visual Comparison and Language Reasoning for Few-Shot Anomaly Detection](https://arxiv.org/abs/2609.34949v1)** | 2026-09-28 |  |
 | **[Bridging Vision Foundation Model Priors with CLIP for Spatial-aware Few-shot Anomaly Detection in Medical Images](https://arxiv.org/abs/2609.12454v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted by MICCAI 2026</p></details> |
 | **[DriftAD: Visually-Guided Text Drift for Few-Shot Industrial Anomaly Detection](https://arxiv.org/abs/2608.23723v1)** | 2026-08-24 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2026 (ACM MM 2026)</p></details> |
@@ -34,7 +35,6 @@ labels: documentation
 | **[PADFormer: Pose-agnostic Anomaly Detection from Sparse View Images](https://arxiv.org/abs/2608.04210v1)** | 2026-08-04 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026 (oral)</p></details> |
 | **[DuoAD: Leveraging [CLS] Dual Characteristics for Training-Free Few-Shot Anomaly Detection](https://arxiv.org/abs/2607.23924v1)** | 2026-07-27 | <details><summary>Code:...</summary><p>Code: https://github.com/inventec-ai-center/DuoAD</p></details> |
 | **[CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection](https://arxiv.org/abs/2606.20300v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted to ECCV 2026! Project page: https://cmds-ad.github.io/</p></details> |
-| **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v2)** | 2026-05-30 | 31 pages, 7 figures |
 | **[AnomalyAgent: Training-Free Agentic Models for Zero-/Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.30140v1)** | 2026-05-28 |  |
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Revised version with corrected AU-PRO evaluation and recomputed metrics</p></details> |
 | **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](https://arxiv.org/abs/2507.13757v3)** | 2026-05-05 |  |
