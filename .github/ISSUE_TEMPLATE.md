@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 28, 2026
+title: Latest 15 Papers - October 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/longinhit/DailyArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Few Shot Anomaly Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AnomalyGFM: Graph Foundation Model for Zero/Few-shot Anomaly Detection](https://arxiv.org/abs/2502.09254v3)** | 2026-10-27 | Accepted by KDD2025 |
 | **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](https://arxiv.org/abs/2610.32964v1)** | 2026-10-23 | <details><summary>Accep...</summary><p>Accepted to WACV 2027</p></details> |
 | **[Adversarially Robust Few-Shot Anomaly Detection with Vision Foundation Models](https://arxiv.org/abs/2510.13643v3)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted to BMVC 2026</p></details> |
 | **[Beyond Normal References: Discriminative Few-Shot Anomaly Detection](https://arxiv.org/abs/2605.23231v3)** | 2026-09-30 | <details><summary>39 pa...</summary><p>39 pages, Accepted to NeurIPS 2026</p></details> |
@@ -40,5 +41,4 @@ labels: documentation
 | **[SubspaceAD: Training-Free Few-Shot Anomaly Detection via Subspace Modeling](https://arxiv.org/abs/2602.23013v3)** | 2026-05-13 | <details><summary>Accep...</summary><p>Accepted to CVPR 2026. Revised version with corrected AU-PRO evaluation and recomputed metrics</p></details> |
 | **[Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery](https://arxiv.org/abs/2507.13757v3)** | 2026-05-05 |  |
 | **[H2VLR: Heterogeneous Hypergraph Vision-Language Reasoning for Few-Shot Anomaly Detection](https://arxiv.org/abs/2604.14507v1)** | 2026-04-16 | 9 pages, 5 figures |
-| **[InCTRLv2: Generalist Residual Models for Few-Shot Anomaly Detection and Segmentation](https://arxiv.org/abs/2604.04632v1)** | 2026-04-06 |  |
 
